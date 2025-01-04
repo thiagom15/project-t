@@ -1,0 +1,7 @@
+export * from "./Footer" 
+export * from "./NavBar"
+export * from "./MainProvider"
+export * from "./ProductsList"
+export * from "./ProductCard"
+export * from "./ProductDetail"
+export * from "./filter&search"
